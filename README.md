@@ -8,6 +8,14 @@ And then use
 ```
 custom.js
 ```
+
+## Built With
+
+* [jquery.easing.min.js]( ) - The web framework used
+* [custom.js]( ) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
