@@ -1,9 +1,6 @@
-# scrollspy_navigation_using_bootstrap
-
-
 # How to use Smoth Scroll Plugin using Bootstrap
 
-At the end of body tag add the easing plugin named ##jquery.easing.min.js
+At the end of body tag add the easing plugin named ## jquery.easing.min.js
 
 ## Getting Started
 
