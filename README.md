@@ -11,10 +11,9 @@ custom.js
 
 ## Built With
 
-* [jquery.easing.min.js]( ) - The web framework used
-* [custom.js]( ) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [jquery.easing.min.js](https://faridrony55.github.io/scrollspy_navigation_using_bootstrap/jquery.easing.min.js) - smooth scroll plugin 
+* [custom.js](https://faridrony55.github.io/scrollspy_navigation_using_bootstrap/custom.js) - Custom jquery script
+ 
 
 ## Getting Started
 
